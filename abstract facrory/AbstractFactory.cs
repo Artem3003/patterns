@@ -1,6 +1,6 @@
 using System;
 
-namespace patterns
+namespace abstractFactory
 {
     // The Abstract Factory interface declares a set of methods that return
     // different abstract products. These products are called a family and are
@@ -19,7 +19,7 @@ namespace patterns
     // variant. The factory guarantees that resulting products are compatible.
     // Note that signatures of the Concrete Factory's methods return an abstract
     // product, while inside the method a concrete product is instantiated.
-    class ConcreateFactory1 : IAbstractFactory
+    class ConcreteFactory1 : IAbstractFactory
     {
         public IAbstractProductA CreateProductA()
         {
@@ -32,7 +32,7 @@ namespace patterns
         }
     }
 
-    class ConcreateFactory2 : IAbstractFactory 
+    class ConcreteFactory2 : IAbstractFactory 
     {
         public IAbstractProductA CreateProductA()
         {
@@ -121,11 +121,11 @@ namespace patterns
         public void Main()
         {
             System.Console.WriteLine("Client: Testing client code with the first factory type...");
-            ClientMethod(new ConcreateFactory1());
+            ClientMethod(new ConcreteFactory1());
             System.Console.WriteLine();
 
             System.Console.WriteLine("Client: Testing the same client code with the second factory type...");
-            ClientMethod(new ConcreateFactory2());
+            ClientMethod(new ConcreteFactory2());
         }
 
         public void ClientMethod(IAbstractFactory factory)

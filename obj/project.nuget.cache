@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z6zpYbTU0PB/hk4VEysp6zFmYldqkZdYh9wQ1AoZc7A4KDa5jBiF4LZG5vYZGjTQDy0AD27UZT7qA6SxR741Lg==",
+  "dgSpecHash": "Qj52z/09zEcWQM0EFjCn+KgDrzE9UrJYZyVZd3PNRDSKmkiVrXr1VT62BXoFZgqeXdMhTKSsRkGSnzi3lGIKnA==",
   "success": true,
   "projectFilePath": "/home/artem/Documents/c#/patterns/patterns.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/artem/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/artem/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/artem/.nuget/packages/nunit/3.14.0/nunit.3.14.0.nupkg.sha512"
+  ],
   "logs": []
 }

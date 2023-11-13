@@ -1,6 +1,6 @@
 using System;
 
-namespace patterns
+namespace abstractFactory
 {
     // Task: Building a UI Theme Manager
     // Description: You are tasked with building a UI theme manager 
@@ -11,6 +11,7 @@ namespace patterns
     // The goal is to implement this feature in a flexible and maintainable way 
     // using the Abstract Factory pattern.
 
+    // Abstract facrory interface
     interface IUIThemeFactory
     {
         IButton CreateButton();
@@ -22,6 +23,7 @@ namespace patterns
         void SetBackgroundColor();
     }
 
+    // Products interfaces
     interface IButton
     {
         void Render();
@@ -37,6 +39,7 @@ namespace patterns
         void Render();
     }
 
+    // Concrete factories
     class LightModeUIThemeFactory : IUIThemeFactory
     {
         public IButton CreateButton()
@@ -107,6 +110,7 @@ namespace patterns
         }
     }
 
+    // Products
     class DarkButton : IButton
     {
         private int width;
@@ -206,7 +210,7 @@ namespace patterns
         }
     }
 
-
+    // Client
     class ThemeManager
     {
         private IUIThemeFactory currentThemeFactory; 
