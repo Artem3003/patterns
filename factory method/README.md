@@ -1,0 +1,3 @@
+## Factory method
+
+The Factory Method Pattern is also called as the Virtual Constructor. The main purpose of this pattern is to create an abstract class (a.k.a factory) for creating objects. Because of that, the object instantiation is done by its subclasses. Also, you can use an interface as the factory, instead of an abstract class. So, if you use interface as the factory, its subclasses must implement their own factory methods for object instantiation.
