@@ -1,0 +1,5 @@
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.csproj.AssemblyReference.cache
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.AssemblyInfoInputs.cache
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.AssemblyInfo.cs
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.csproj.CoreCompileInputs.cache
