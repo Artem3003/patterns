@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0gfNJ1fA79LRl7XxLz1y4uYlR6Ub6la8cdzE0yWrcnTR7QQBd9O0XOQ5HAmQUoRe/tM90pP/UTDX7ZP6OZ/ZZA==",
+  "dgSpecHash": "Xz4pSdVnC32Z7gbs2sn09IUCwvH8XHOpKS9/Kj6wC2NG373OHhwpKsx2we5a3osbitQHR/Bj1CpnwZXrDMcm5Q==",
   "success": true,
   "projectFilePath": "/home/artem/Documents/c#/patterns/patterns.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/artem/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
