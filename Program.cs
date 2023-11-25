@@ -2,6 +2,7 @@
 using System.Security.Cryptography.X509Certificates;
 using proxy;
 using fleweight;
+using facade;
 
 namespace stractural;
 
@@ -10,7 +11,7 @@ public class Program
     public static void Main(string[] args)
     {
         // Proxy
-        Client client = new Client();
+        proxy.Client client = new proxy.Client();
             
         Console.WriteLine("Client: Executing the client code with a real subject:");
         RealSubject realSubject = new RealSubject();
@@ -52,6 +53,14 @@ public class Program
         });
 
         factory.ListFlyweights();
+        
+
+        // Facade
+        Subsystem1 subsystem1 = new Subsystem1();
+        Subsystem2 subsystem2 = new Subsystem2();
+        Facade facade = new Facade(subsystem1, subsystem2);
+        facade.Client facadeClient = new facade.Client();
+        facadeClient.ClientCode(facade);
     }
 
     public static void AddCarToPoliceDatabase(FlyweightFactory factory, Car car)
