@@ -1,0 +1,14 @@
+/home/artem/Documents/c#/patterns/bin/Debug/net7.0/patterns
+/home/artem/Documents/c#/patterns/bin/Debug/net7.0/patterns.deps.json
+/home/artem/Documents/c#/patterns/bin/Debug/net7.0/patterns.runtimeconfig.json
+/home/artem/Documents/c#/patterns/bin/Debug/net7.0/patterns.dll
+/home/artem/Documents/c#/patterns/bin/Debug/net7.0/patterns.pdb
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.AssemblyInfoInputs.cache
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.AssemblyInfo.cs
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.csproj.CoreCompileInputs.cache
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.dll
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/refint/patterns.dll
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.pdb
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/patterns.genruntimeconfig.cache
+/home/artem/Documents/c#/patterns/obj/Debug/net7.0/ref/patterns.dll
