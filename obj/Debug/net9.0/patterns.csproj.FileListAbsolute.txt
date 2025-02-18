@@ -1,0 +1,15 @@
+C:\Users\Artem\Documents\Csharp\patterns\bin\Debug\net9.0\patterns.exe
+C:\Users\Artem\Documents\Csharp\patterns\bin\Debug\net9.0\patterns.deps.json
+C:\Users\Artem\Documents\Csharp\patterns\bin\Debug\net9.0\patterns.runtimeconfig.json
+C:\Users\Artem\Documents\Csharp\patterns\bin\Debug\net9.0\patterns.dll
+C:\Users\Artem\Documents\Csharp\patterns\bin\Debug\net9.0\patterns.pdb
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.AssemblyInfo.cs
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.sourcelink.json
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.dll
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\refint\patterns.dll
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.pdb
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\patterns.genruntimeconfig.cache
+C:\Users\Artem\Documents\Csharp\patterns\obj\Debug\net9.0\ref\patterns.dll

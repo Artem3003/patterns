@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/artem/Documents/c#/patterns/patterns.csproj": {}
+    "C:\\Users\\Artem\\Documents\\Csharp\\patterns\\patterns.csproj": {}
   },
   "projects": {
-    "/home/artem/Documents/c#/patterns/patterns.csproj": {
+    "C:\\Users\\Artem\\Documents\\Csharp\\patterns\\patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artem/Documents/c#/patterns/patterns.csproj",
+        "projectUniqueName": "C:\\Users\\Artem\\Documents\\Csharp\\patterns\\patterns.csproj",
         "projectName": "patterns",
-        "projectPath": "/home/artem/Documents/c#/patterns/patterns.csproj",
-        "packagesPath": "/home/artem/.nuget/packages/",
-        "outputPath": "/home/artem/Documents/c#/patterns/obj/",
+        "projectPath": "C:\\Users\\Artem\\Documents\\Csharp\\patterns\\patterns.csproj",
+        "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artem\\Documents\\Csharp\\patterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/artem/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -32,11 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/artem/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
